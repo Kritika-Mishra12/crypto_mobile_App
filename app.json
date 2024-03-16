@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "6f9d1074-df34-441a-bee3-e1af405a1834"
+      }
+    },
+    "android": {
+      "package": "com.kritika25.mobileapp"
+    }
+  }
+}
